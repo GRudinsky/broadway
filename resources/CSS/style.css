@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+.headline {
+  font-size: 70px;
+  font-weight: bold;
+}
+li {
+  list-style: none;
+}
