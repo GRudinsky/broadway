@@ -6,11 +6,22 @@ body {
   font-size: 70px;
   font-weight: bold;
 }
-.cover_link {
+.page_link {
   color: white;
   text-size: 18px;
 }
 .Broadway_cover {
-  background-image: url("/Users/Giedrius/Desktop/Projects/Broadway/resources/images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
   color: white;
+}
+.Designed {
+  font-size: 23px;
+  font-weight: bold;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+  back
 }
